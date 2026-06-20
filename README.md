@@ -45,7 +45,7 @@ Margem de Lucro % = DIVIDE( [Soma de Lucro], [Soma de Faturamento] )
 
 ## Visão geral do dashboard
 
-![Dashboard de Vendas Anual](./assets/dashboard.png)
+![Dashboard de Vendas Anual]([./assets/dashboard.png](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop))
 
 ## Principais insights
 
@@ -63,12 +63,6 @@ Margem de Lucro % = DIVIDE( [Soma de Lucro], [Soma de Faturamento] )
 │   └── dashboard.png             # print do relatório
 └── README.md
 ```
-
-## Como visualizar
-
-1. Baixe o arquivo `Relatorio_Vendas_Anual.pbix`.
-2. Abra no **[Power BI Desktop](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop)** (gratuito).
-3. Para uma prévia rápida, veja a imagem na pasta `assets/`.
 
 ---
 **Geiziane Rocha** — Estudante de Engenharia de Software | Desenvolvedora & Análise de Dados/BI
