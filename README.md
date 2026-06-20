@@ -1,7 +1,10 @@
-# 📊 Relatório de Vendas Anual — Power BI
+# Relatório de Vendas Anual — Power BI
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-01B8AA?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-376C60?style=for-the-badge)
 
-Dashboard interativo de análise de vendas anuais de uma rede de varejo de moda, desenvolvido no Power BI. O relatório acompanha faturamento, lucro e desempenho por marca, tipo de produto e período, transformando a base de vendas em indicadores prontos para apoiar decisões.
+Dashboard interativo de **análise de vendas anuais** de uma rede de varejo de moda, desenvolvido no **Power BI**. O relatório acompanha faturamento, lucro e desempenho por marca, tipo de produto e período, transformando a base de vendas em indicadores prontos para apoiar decisões.
 
 >  Projeto de estudo desenvolvido com base em uma base de dados fictícia, para praticar tratamento de dados, modelagem, medidas DAX e visualização no Power BI.
 
@@ -40,6 +43,9 @@ Soma de Lucro = SUM( Vendas[Lucro] )
 Margem de Lucro % = DIVIDE( [Soma de Lucro], [Soma de Faturamento] )
 ```
 
+## Visão geral do dashboard
+
+![Dashboard de Vendas Anual](./assets/dashboard.png)
 
 ## Principais insights
 
@@ -58,7 +64,11 @@ Margem de Lucro % = DIVIDE( [Soma de Lucro], [Soma de Faturamento] )
 └── README.md
 ```
 
+## Como visualizar
 
+1. Baixe o arquivo `Relatorio_Vendas_Anual.pbix`.
+2. Abra no **[Power BI Desktop](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop)** (gratuito).
+3. Para uma prévia rápida, veja a imagem na pasta `assets/`.
 
 ---
 **Geiziane Rocha** — Estudante de Engenharia de Software | Desenvolvedora & Análise de Dados/BI
